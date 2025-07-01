@@ -14,5 +14,9 @@
   "type": "module",
   "workspaces": [
     "src/SupTrus_frontend"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "react-router-dom": "^7.6.3"
+  }
 }
